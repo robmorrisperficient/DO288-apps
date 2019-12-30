@@ -13,7 +13,7 @@ pipeline {
         DEV_PROJECT = "rob-morris-perficient-com-movies-dev"
         STAGE_PROJECT = "rob-morris-perficient-com-movies-stage"
         APP_GIT_URL = "https://github.com/robmorrisperficient/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.ocp-na1-prod.nextcle.com/repository/java"
+        NEXUS_SERVER = "http://nexus-common.apps.ocp-na1.prod.nextcle.com/repository/java"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "movies"
